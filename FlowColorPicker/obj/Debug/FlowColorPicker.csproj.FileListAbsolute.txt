@@ -1,0 +1,11 @@
+C:\Users\necoa\source\repos\FlowColorPicker\FlowColorPicker\bin\Debug\FlowColorPicker.exe.config
+C:\Users\necoa\source\repos\FlowColorPicker\FlowColorPicker\bin\Debug\FlowColorPicker.exe
+C:\Users\necoa\source\repos\FlowColorPicker\FlowColorPicker\bin\Debug\FlowColorPicker.pdb
+C:\Users\necoa\source\repos\FlowColorPicker\FlowColorPicker\obj\Debug\FlowColorPicker.csproj.AssemblyReference.cache
+C:\Users\necoa\source\repos\FlowColorPicker\FlowColorPicker\obj\Debug\FlowColorPicker.Form1.resources
+C:\Users\necoa\source\repos\FlowColorPicker\FlowColorPicker\obj\Debug\FlowColorPicker.Properties.Resources.resources
+C:\Users\necoa\source\repos\FlowColorPicker\FlowColorPicker\obj\Debug\FlowColorPicker.csproj.GenerateResource.cache
+C:\Users\necoa\source\repos\FlowColorPicker\FlowColorPicker\obj\Debug\FlowColorPicker.csproj.CoreCompileInputs.cache
+C:\Users\necoa\source\repos\FlowColorPicker\FlowColorPicker\obj\Debug\FlowColorPicker.exe
+C:\Users\necoa\source\repos\FlowColorPicker\FlowColorPicker\obj\Debug\FlowColorPicker.pdb
+C:\Users\necoa\source\repos\FlowColorPicker\FlowColorPicker\obj\Debug\FlowColorPicker.Form2.resources
